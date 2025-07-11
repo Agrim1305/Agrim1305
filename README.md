@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🎯 I'm currently working on<br>A full-stack Web Development project that integrates interactive UI/UX, dynamic databases, and API-driven data visualization to create responsive and scalable user experiences.<br><br>🤝 I'm looking to collaborate on<br>Innovative full-stack applications, AI/ML-integrated web tools, and projects that bridge tech with real-world communities, such as sports or education.<br><br>❓ I'm looking for help with<br>Advanced backend optimization, DevOps, and securing production-grade web applications.<br><br>🌱 I'm currently learning<br>React & Next.js for performant frontend development<br><br>Node.js, Express, and MongoDB/MySQL for backend services<br><br>Basics of AI integration into web platforms (e.g., ChatGPT API, recommendation systems)<br><br>💬 Ask me about<br>Full-stack web apps with authentication & API integration<br><br>Managing tech projects alongside being a student and club president<br><br>How to go from idea → MVP → live deployment<br><br>⚡ Fun fact<br>I'm not just a developer—I coach tennis, run a university club, and write backend code that schedules lessons. 🎾💻
 
@@ -17,7 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Agrim1305&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
