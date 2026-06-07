@@ -1,48 +1,117 @@
-# About Me:
-### ➤ I'm currently working on<br>
-A full-stack Web Development project that integrates interactive UI/UX, dynamic databases, and API-driven data visualization to create responsive and scalable user experiences.<br><br> 
-### ➤ I'm looking to collaborate on<br>
-Innovative full-stack applications, AI/ML-integrated web tools, and projects that bridge tech with real-world communities, such as sports or education.<br><br>
-### ➤ I'm looking for help with<br>
-Advanced backend optimization, DevOps, and securing production-grade web applications.<br><br> 
-### ➤ I'm currently learning<br>
-React & Next.js for performant frontend development<br><br>Node.js, Express, and MongoDB/MySQL for backend services<br><br>Basics of AI integration into web platforms (e.g., ChatGPT API, recommendation systems)<br><br> 
-### ➤ Ask me about<br>
-Full-stack web apps with authentication & API integration<br><br> Managing tech projects alongside being a student and club president<br><br>How to go from idea → MVP → live deployment<br><br>
-### ➤ Fun fact<br>
-I'm not just a developer—I coach tennis, run a university club, and write backend code that schedules lessons. 
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Agrim%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Artificial%20Intelligence%20%7C%20University%20of%20Adelaide&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
+<!-- Animated typing taglines -->
+<p align="center">
+  <a href="https://github.com/Agrim1305">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=720&lines=Building+software+that+solves+real+problems;Full-stack+%E2%80%A2+Backend+systems+%E2%80%A2+Applied+AI;From+wireframe+to+working+product;Currently+graduating+December+2026" alt="typing" />
+  </a>
+</p>
 
-# Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AgrimSharmaaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agrim_sharmaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agrim-sharma-821788302) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrimsh22@gmail.com) 
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Agrim1305&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Agrim1305&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agrim1305&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br>
-
-
+<!-- Profile views + LinkedIn + Email quick links -->
+<p align="center">
+  <a href="https://linkedin.com/in/agrim-sharma-821788302"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:agrimsh22@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Agrim1305&style=flat-square&color=00b4d8&label=Profile+views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Agrim1305&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Agrim1305/Agrim1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the **University of Adelaide**, majoring in Artificial Intelligence and graduating December 2026. I build full-stack web applications and write code that bridges the gap between a clean idea and something people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care more about whether software solves a real problem than whether it uses the trendiest stack. Most of what I learn comes from shipping projects, breaking them, and figuring out why.
+
+<br>
+
+### ❯ What I'm building right now
+
+A web app to manage tennis lesson scheduling at the club where I coach — the kind of internal tool that quietly replaces a messy spreadsheet and saves a few hours every week. Alongside that, I'm rebuilding personal projects with a focus on production readiness rather than just "does it run."
+
+<br>
+
+### ❯ Recent work worth talking about
+
+> **🌱 Sprout** — a plant care tracking dashboard built in React and TypeScript with a focus on accessibility and user-centred design. Took it from wireframe to working product across a semester with a team of five.
+
+> **📍 GPS Tracking Dashboard** — a real-time location tracking system built in Java using functional reactive programming, designed to handle continuous data streams without breaking under load.
+
+> **🤖 Wumpus World AI Agent** — an autonomous Python agent that navigates an unknown environment using logical inference and probabilistic reasoning. Scored full marks on the autograder.
+
+> **🎮 MetaPlay** — a full-stack web application with Google OAuth2, MySQL, and a Vue/Node stack. Owned authentication, backend logic, and the integration layer.
+
+<br>
+
+### ❯ What I'm looking for
+
+Graduate or internship roles in software engineering, consulting, or AI-adjacent product work where I can keep shipping real things. Open to full-stack development, backend systems, cloud, and applied AI — the common thread is solving problems that matter, not chasing buzzwords.
+
+<br>
+
+### ❯ What I'm sharpening this year
+
+- **Data structures and algorithms** — the patterns that show up in interviews and real code
+- **System design fundamentals** — architecting web applications that scale past one user and one server
+- **Microsoft Azure** — working toward the AZ-900 certification
+- **Applied machine learning** — LLM integration patterns for real product use cases
+
+<br>
+
+### ❯ Beyond the code
+
+I coach junior tennis on weekends and previously led the University of Adelaide Tennis Club through a merger as president — 100+ members, a constitution I co-wrote from scratch, facility upgrades, and a Club of the Year win. Running a committee turns out to be excellent training for shipping software: figure out who needs what, when, and unblock the path.
+
+---
+
+## Tech I work with
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css,r&perline=8" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,nodejs,express,fastapi&perline=7" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,powershell,figma&perline=7" />
+  </a>
+</p>
+
+---
+
+## A look at my GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agrim1305&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agrim1305&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117" width="48%" />
+</p>
+
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agrim1305&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true" />
+</p>
+
+<!-- Snake animation (requires GitHub Action - see setup below) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Agrim1305/Agrim1305/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## Find me elsewhere
+
+<p align="center">
+  <a href="https://linkedin.com/in/agrim-sharma-821788302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:agrimsh22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/agrim_sharmaaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/AgrimSharmaaa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+</p>
