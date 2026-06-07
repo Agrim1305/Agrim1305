@@ -84,25 +84,6 @@ I coach junior tennis on weekends and previously led the University of Adelaide 
 
 ---
 
-## A look at my GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agrim1305&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agrim1305&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117" width="48%" />
-</p>
-
-<!-- Activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agrim1305&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true" />
-</p>
-
-<!-- Snake animation (requires GitHub Action - see setup below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Agrim1305/Agrim1305/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## Find me elsewhere
 
 <p align="center">
