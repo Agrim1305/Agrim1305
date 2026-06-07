@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Agrim%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Artificial%20Intelligence%20%7C%20University%20of%20Adelaide&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Agrim%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Adelaide%20University&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <!-- Animated typing taglines -->
@@ -21,7 +21,7 @@
 
 ## About me
 
-I'm a Computer Science student at the **University of Adelaide**, majoring in Artificial Intelligence and graduating December 2026. I build full-stack web applications and write code that bridges the gap between a clean idea and something people can actually use.
+I'm a Computer Science student at the **Adelaide University**, majoring in Artificial Intelligence and graduating December 2026. I build full-stack web applications and write code that bridges the gap between a clean idea and something people can actually use.
 
 I care more about whether software solves a real problem than whether it uses the trendiest stack. Most of what I learn comes from shipping projects, breaking them, and figuring out why.
 
