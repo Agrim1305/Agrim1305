@@ -1,5 +1,5 @@
 <a href="https://agrimsharma.com">
-  <img src="./assets/header.svg" width="100%" alt="Agrim Sharma. Software, applied AI, Adelaide. Open to graduate roles from December 2026." />
+  <img src=".//header.svg" width="100%" alt="Agrim Sharma. Software, applied AI, Adelaide. Open to graduate roles from December 2026." />
 </a>
 
 <p align="center">
@@ -15,17 +15,17 @@ Final-year Computer Science student at **Adelaide University**, majoring in Arti
 ### Selected work
 
 <p align="center">
-  <a href="https://agrimsharma.com/projects/pacific-village-explorer"><img src="./assets/card-pacific.svg" width="49%" alt="Pacific Village Explorer: Top 12 of 75 submissions" /></a>
-  <a href="https://agrimsharma.com/projects/metaplay"><img src="./assets/card-metaplay.svg" width="49%" alt="MetaPlay: live game tracking platform" /></a>
-  <a href="https://agrimsharma.com/projects/portfolio-ai-assistant"><img src="./assets/card-aris.svg" width="49%" alt="Aris, my portfolio AI assistant" /></a>
-  <a href="https://agrimsharma.com/projects/adelaide-rising-stars"><img src="./assets/card-ars.svg" width="49%" alt="Adelaide Rising Stars: freelance site" /></a>
+  <a href="https://agrimsharma.com/projects/pacific-village-explorer"><img src=".//card-pacific.svg" width="49%" alt="Pacific Village Explorer: Top 12 of 75 submissions" /></a>
+  <a href="https://agrimsharma.com/projects/metaplay"><img src=".//card-metaplay.svg" width="49%" alt="MetaPlay: live game tracking platform" /></a>
+  <a href="https://agrimsharma.com/projects/portfolio-ai-assistant"><img src=".//card-aris.svg" width="49%" alt="Aris, my portfolio AI assistant" /></a>
+  <a href="https://agrimsharma.com/projects/adelaide-rising-stars"><img src=".//card-ars.svg" width="49%" alt="Adelaide Rising Stars: freelance site" /></a>
 </p>
 
 More on [my portfolio](https://agrimsharma.com): a GPS dashboard built with functional reactive programming, a Wumpus World AI agent, Pathfinder, and more.
 
 ### Toolkit
 
-<img src="./assets/stack.svg" width="100%" alt="Python, Java, TypeScript, JavaScript, C++, SQL, React, Next.js, Node.js, Spring Boot, Tailwind, PostgreSQL, MySQL, Azure, Docker, Claude API" />
+<img src=".//stack.svg" width="100%" alt="Python, Java, TypeScript, JavaScript, C++, SQL, React, Next.js, Node.js, Spring Boot, Tailwind, PostgreSQL, MySQL, Azure, Docker, Claude API" />
 
 ### Beyond the code
 
@@ -34,5 +34,5 @@ I coach junior tennis and led the Adelaide University Tennis Club through a merg
 <br>
 
 <a href="https://agrimsharma.com">
-  <img src="./assets/footer.svg" width="100%" alt="Questions? Ask Aris at agrimsharma.com" />
+  <img src=".//footer.svg" width="100%" alt="Questions? Ask Aris at agrimsharma.com" />
 </a>
