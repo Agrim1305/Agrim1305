@@ -4,10 +4,15 @@
 </picture>
 
 <p>
-  <a href="https://agrimsharma.com/resume.pdf"><b>Résumé</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://agrimsharma.com">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/agrim-sharma-821788302">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:agrimsh22@gmail.com">agrimsh22@gmail.com</a>
+<a href="https://agrimsharma.com/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-resume-dark.svg"><img src="./btn-resume-light.svg" alt="Résumé"></picture></a>&nbsp;
+<a href="https://agrimsharma.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-portfolio-dark.svg"><img src="./btn-portfolio-light.svg" alt="Portfolio"></picture></a>&nbsp;
+<a href="https://linkedin.com/in/agrim-sharma-821788302"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-linkedin-dark.svg"><img src="./btn-linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;
+<a href="mailto:agrimsh22@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-email-dark.svg"><img src="./btn-email-light.svg" alt="Email agrimsh22@gmail.com"></picture></a>
 </p>
 
-I build real-time AI and concurrent systems in TypeScript, Python and Java. Most recently I worked on a voice AI meeting assistant at Viemo Capital. I'm finishing Computer Science (AI) at Adelaide University and looking for graduate software engineering roles from January 2027.
+I like problems where software has to be fast and correct at the same time: answering a spoken question in about two seconds, finding the shortest route without checking every street, keeping a meeting transcript safe through a browser crash. I work mostly in TypeScript, Python and Java.
+
+I'm finishing Computer Science (AI) at Adelaide University and looking for a graduate software engineering role from January 2027. Happy to relocate.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./impact-dark.svg">
@@ -23,7 +28,8 @@ I build real-time AI and concurrent systems in TypeScript, Python and Java. Most
 <b><a href="https://github.com/Agrim1305/Pathfinder">Pathfinder</a></b><br>
 <sub>Python · JavaScript · GitHub Actions</sub>
 <p>BFS, Dijkstra and A* built from scratch, running on a real Adelaide CBD street map. A* finds the same route as Dijkstra while searching up to 59% fewer nodes, checked by 13 unit tests and a CI step that keeps the demo in step with the Python.</p>
-<a href="https://agrim1305.github.io/Pathfinder/">Live demo ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/Agrim1305/Pathfinder">Code</a>
+<a href="https://agrim1305.github.io/Pathfinder/"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-demo-dark.svg"><img src="./btn-demo-light.svg" alt="Live demo"></picture></a>&nbsp;
+<a href="https://github.com/Agrim1305/Pathfinder"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-code-dark.svg"><img src="./btn-code-light.svg" alt="Code"></picture></a>
 </td>
 </tr>
 </table>
@@ -35,7 +41,8 @@ I build real-time AI and concurrent systems in TypeScript, Python and Java. Most
 <b><a href="https://github.com/Agrim1305/Metaplay">MetaPlay</a></b><br>
 <sub>Node.js · Express · Vue.js · PostgreSQL</sub>
 <p>Game tracking platform. I built the back end for a five-person team: 15+ REST endpoints and Google OAuth 2.0 with roles. A year later I brought it back alone after an outage, migrating MySQL to PostgreSQL.</p>
-<a href="https://metaplay-g2q7.onrender.com">Live site ↗</a> <sub>(first load can take 30 s)</sub>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/Agrim1305/Metaplay">Code</a>
+<a href="https://metaplay-g2q7.onrender.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-site-dark.svg"><img src="./btn-site-light.svg" alt="Live site"></picture></a>&nbsp;
+<a href="https://github.com/Agrim1305/Metaplay"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-code-dark.svg"><img src="./btn-code-light.svg" alt="Code"></picture></a><br><sub>First load can take 30 s while the server wakes up.</sub>
 </td>
 </tr>
 </table>
@@ -47,7 +54,8 @@ I build real-time AI and concurrent systems in TypeScript, Python and Java. Most
 <b><a href="https://github.com/Agrim1305/portfolio">agrimsharma.com</a></b><br>
 <sub>TypeScript · Next.js · Tailwind CSS · Claude API</sub>
 <p>Portfolio with a Claude assistant that can call tools. Inputs are schema-checked, actions come from an allowlist, and the API key stays on the server. Covered by 350+ end-to-end tests.</p>
-<a href="https://agrimsharma.com">Live site ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/Agrim1305/portfolio">Code</a>
+<a href="https://agrimsharma.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-site-dark.svg"><img src="./btn-site-light.svg" alt="Live site"></picture></a>&nbsp;
+<a href="https://github.com/Agrim1305/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-code-dark.svg"><img src="./btn-code-light.svg" alt="Code"></picture></a>
 </td>
 </tr>
 </table>
@@ -59,7 +67,7 @@ I build real-time AI and concurrent systems in TypeScript, Python and Java. Most
 <b><a href="https://github.com/reeyansh404/Pacific-Village-Explorer">Pacific Village Explorer</a></b><br>
 <sub>React · Vite · Claude API</sub>
 <p>Climate adaptation planner for Pacific village councils. I led the AI recommendation engine, grounding each suggestion in IPCC climate data and each village’s population and budget.</p>
-<a href="https://github.com/reeyansh404/Pacific-Village-Explorer">Code</a>
+<a href="https://github.com/reeyansh404/Pacific-Village-Explorer"><picture><source media="(prefers-color-scheme: dark)" srcset="./btn-code-dark.svg"><img src="./btn-code-light.svg" alt="Code"></picture></a>
 </td>
 </tr>
 </table>
@@ -68,6 +76,7 @@ I build real-time AI and concurrent systems in TypeScript, Python and Java. Most
 
 ## How I work
 
+- **Own it end to end.** Took a client site from the first conversation to launch, and brought MetaPlay back online alone after an outage.
 - **Measure first.** Benchmarks, evaluation harnesses and tests in CI before I claim something is faster or fixed.
 - **Small, reviewable changes.** 31 merged pull requests into a 22,000-line codebase during my internship.
 - **Safe defaults for AI.** Fail-closed checks, no unsupervised actions, and API keys kept on the server.
