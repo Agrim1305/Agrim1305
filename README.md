@@ -1,20 +1,35 @@
-<a href="https://agrimsharma.com"><img src="./header.svg" width="100%" alt="Agrim Sharma. Software engineer, Adelaide. Open to graduate roles from December 2026." /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="Agrim Sharma. Software engineer in Adelaide, Australia. Graduating December 2026, available from January 2027.">
+</picture>
 
-<p align="center">
-  <a href="https://agrimsharma.com/resume.pdf"><img src="./btn-resume.svg" alt="Résumé (PDF)"></a>
-  <a href="https://agrimsharma.com"><img src="./btn-portfolio.svg" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/agrim-sharma-821788302"><img src="./btn-linkedin.svg" alt="LinkedIn"></a>
-  <a href="mailto:agrimsh22@gmail.com"><img src="./btn-email.svg" alt="Email"></a>
+<p>
+  <a href="https://agrimsharma.com/resume.pdf"><b>Résumé</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://agrimsharma.com">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/agrim-sharma-821788302">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:agrimsh22@gmail.com">agrimsh22@gmail.com</a>
 </p>
 
-<a href="https://agrimsharma.com/resume.pdf"><img src="./about.svg" width="100%" alt="About: I build software end to end, from database to interface. Final-year Computer Science student at Adelaide University. Now: software engineering intern at Aurivox. Next: graduate software engineering roles from December 2026. Stack: TypeScript, Java and Python. Top 12 of 75 teams at the 2026 Humanitarian Innovation Hackathon. 1 of 4 interns chosen from 11. Microsoft Azure Fundamentals (AZ-900). President, Adelaide University Tennis Club: led a merger, Club of the Year 2025." /></a>
+I build real-time AI and concurrent systems in TypeScript, Python and Java. Most recently I worked on a voice AI meeting assistant at Viemo Capital. I'm finishing Computer Science (AI) at Adelaide University and looking for graduate software engineering roles from January 2027.
 
-<a href="https://github.com/Agrim1305?tab=repositories"><img src="./sec-work.svg" width="100%" alt="Selected work" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg">
+  <img src="./assets/impact-light.svg" width="100%" alt="1.9 s median spoken answer from a voice AI assistant; 59% fewer nodes searched than Dijkstra using A*; 5.2x speed-up on 9 workers with identical output; club membership grown from about 10 to 100+ in 18 months.">
+</picture>
 
-<a href="https://github.com/Agrim1305/Metaplay"><img src="./work-metaplay.svg" width="100%" alt="MetaPlay: a game tracking platform with live RAWG data, Google sign-in, reviews and an admin dashboard. Node, Express, MySQL, OAuth 2.0." /></a>
+## Where to look
 
-<a href="https://github.com/reeyansh404/Pacific-Village-Explorer"><img src="./work-pacific.svg" width="100%" alt="Pacific Village Explorer: a climate adaptation planner for Pacific village councils, Top 12 of 75 at the 2026 Humanitarian Innovation Hackathon. React, Vite, Claude API." /></a>
+**[Pathfinder](https://github.com/Agrim1305/Pathfinder)**: BFS, Dijkstra and A\* written from scratch, on elevation grids and a real Adelaide CBD map. Worth reading: the search core, its 13 unit tests, and the CI check that keeps the browser demo in step with the Python results.
 
-<a href="https://agrimsharma.com"><img src="./stack.svg" width="100%" alt="Toolkit. Languages: TypeScript, Java, Python, JavaScript, SQL, C++. Frontend and backend: React, Next.js, Node.js, Express, Spring Boot, Tailwind CSS. Data and cloud: PostgreSQL, MySQL, Azure, Docker, Vercel, Git. Practices and AI: REST APIs, OAuth 2.0, Claude API, LLM streaming, functional reactive programming, search algorithms." /></a>
+**[MetaPlay](https://github.com/Agrim1305/Metaplay)**: the Node.js back end I built for a five-person team. 15+ REST endpoints, Google OAuth 2.0 with roles, and the MySQL to PostgreSQL migration I did alone to bring it back after an outage.
 
-<a href="mailto:agrimsh22@gmail.com"><img src="./footer.svg" width="100%" alt="Let's build something. Email agrimsh22@gmail.com" /></a>
+**[agrimsharma.com](https://github.com/Agrim1305/portfolio)**: Next.js site with a Claude assistant that can call tools. Inputs are schema-checked, actions are limited to an allowlist, and 350+ end-to-end tests cover it.
+
+**[Pacific Village Explorer](https://github.com/reeyansh404/Pacific-Village-Explorer)**: hackathon finalist, top 12 of 110 teams. I led the AI recommendation engine, built in 44 hours.
+
+<sub>My internship code is private, and so is my university coursework (a concurrent video player in Java and a compiler in C++). Happy to walk through either.</sub>
+
+## How I work
+
+- **Measure first.** Benchmarks, evaluation harnesses and tests in CI before I claim something is faster or fixed.
+- **Small, reviewable changes.** 31 merged pull requests into a 22,000-line codebase during my internship.
+- **Safe defaults for AI.** Fail-closed checks, no unsupervised actions, and API keys kept on the server.
+
+<sub>Python · TypeScript · Java · C++ · SQL · React · Next.js · Node.js · Spring Boot · PostgreSQL · Docker · Azure · GitHub Actions</sub>
