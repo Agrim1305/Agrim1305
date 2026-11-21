@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img src="./assets/banner-light.svg" width="100%" alt="Agrim Sharma. Software engineer in Adelaide, Australia. Graduating December 2026, available from January 2027.">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <img src="./banner-light.svg" width="100%" alt="Agrim Sharma. Software engineer in Adelaide, Australia. Graduating December 2026, available from January 2027.">
 </picture>
 
 <p>
@@ -10,8 +10,8 @@
 I build real-time AI and concurrent systems in TypeScript, Python and Java. Most recently I worked on a voice AI meeting assistant at Viemo Capital. I'm finishing Computer Science (AI) at Adelaide University and looking for graduate software engineering roles from January 2027.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg">
-  <img src="./assets/impact-light.svg" width="100%" alt="1.9 s median spoken answer from a voice AI assistant; 59% fewer nodes searched than Dijkstra using A*; 5.2x speed-up on 9 workers with identical output; club membership grown from about 10 to 100+ in 18 months.">
+  <source media="(prefers-color-scheme: dark)" srcset="./impact-dark.svg">
+  <img src="./impact-light.svg" width="100%" alt="1.9 s median spoken answer from a voice AI assistant; 59% fewer nodes searched than Dijkstra using A*; 5.2x speed-up on 9 workers with identical output; club membership grown from about 10 to 100+ in 18 months.">
 </picture>
 
 ## Where to look
